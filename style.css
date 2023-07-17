@@ -1,0 +1,69 @@
+main {
+  background-color: rgb(236, 237, 243);
+}
+
+body {
+  font-family: "Lilita One", cursive;
+}
+.navbar {
+  background: rgb(209, 195, 195);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-op {
+  display: flex;
+  background: rgb(184, 171, 171);
+  padding: 20px;
+  gap: 20px;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.tryms {
+  background: rgb(207, 202, 194);
+  padding: 20px;
+}
+
+.tryms h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.tryms-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tryms-img img {
+  width: 500px;
+}
+
+.goodshow {
+  background: rgb(207, 202, 194);
+  padding: 20px;
+}
+
+.show h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.show {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.show img {
+  width: 500px;
+}
